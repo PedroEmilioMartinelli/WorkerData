@@ -1,0 +1,7 @@
+C:\DEV\C#\SalaryWorker\SalaryWorker\bin\Debug\SalaryWorker.exe.config
+C:\DEV\C#\SalaryWorker\SalaryWorker\bin\Debug\SalaryWorker.exe
+C:\DEV\C#\SalaryWorker\SalaryWorker\bin\Debug\SalaryWorker.pdb
+C:\DEV\C#\SalaryWorker\SalaryWorker\obj\Debug\SalaryWorker.csproj.AssemblyReference.cache
+C:\DEV\C#\SalaryWorker\SalaryWorker\obj\Debug\SalaryWorker.csproj.CoreCompileInputs.cache
+C:\DEV\C#\SalaryWorker\SalaryWorker\obj\Debug\SalaryWorker.exe
+C:\DEV\C#\SalaryWorker\SalaryWorker\obj\Debug\SalaryWorker.pdb
